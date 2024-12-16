@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0dd7973bd79c4c2eadf32db2a379bc21/artifacts
+end_time: 1734139830681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd7973bd79c4c2eadf32db2a379bc21
+run_name: unleashed-sheep-932
+run_uuid: 0dd7973bd79c4c2eadf32db2a379bc21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734139818586
+status: 4
+tags: []
+user_id: Denis

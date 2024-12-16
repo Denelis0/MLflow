@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/22bd14741e914f62b7a73f2d74fa65ca/artifacts
+end_time: 1734140289570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22bd14741e914f62b7a73f2d74fa65ca
+run_name: exultant-shrike-745
+run_uuid: 22bd14741e914f62b7a73f2d74fa65ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734140276900
+status: 4
+tags: []
+user_id: Denis

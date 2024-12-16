@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6f431ddbd190464998235f1af3035031/artifacts
+end_time: 1734134938245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f431ddbd190464998235f1af3035031
+run_name: efficient-stork-530
+run_uuid: 6f431ddbd190464998235f1af3035031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734134926561
+status: 4
+tags: []
+user_id: Denis

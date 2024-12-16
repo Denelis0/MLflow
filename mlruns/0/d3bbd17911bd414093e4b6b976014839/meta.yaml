@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d3bbd17911bd414093e4b6b976014839/artifacts
+end_time: 1734139631335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3bbd17911bd414093e4b6b976014839
+run_name: classy-bird-85
+run_uuid: d3bbd17911bd414093e4b6b976014839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734139631000
+status: 4
+tags: []
+user_id: Denis

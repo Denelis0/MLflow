@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/06b1be19b15742f6a6b5d270d7fa4f97/artifacts
+end_time: 1734139921977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06b1be19b15742f6a6b5d270d7fa4f97
+run_name: vaunted-horse-644
+run_uuid: 06b1be19b15742f6a6b5d270d7fa4f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734139911178
+status: 4
+tags: []
+user_id: Denis

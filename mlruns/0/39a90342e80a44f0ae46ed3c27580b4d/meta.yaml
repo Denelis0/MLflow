@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/39a90342e80a44f0ae46ed3c27580b4d/artifacts
+end_time: 1734134843075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39a90342e80a44f0ae46ed3c27580b4d
+run_name: intrigued-loon-171
+run_uuid: 39a90342e80a44f0ae46ed3c27580b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734134832707
+status: 4
+tags: []
+user_id: Denis

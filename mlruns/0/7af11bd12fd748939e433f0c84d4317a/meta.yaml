@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7af11bd12fd748939e433f0c84d4317a/artifacts
+end_time: 1734135536446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af11bd12fd748939e433f0c84d4317a
+run_name: intelligent-mare-363
+run_uuid: 7af11bd12fd748939e433f0c84d4317a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734135523490
+status: 4
+tags: []
+user_id: Denis
